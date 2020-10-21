@@ -1,7 +1,11 @@
 ## iText 7
 🚀https://github.com/javakam/iText7Sample
 
-### 使用
+### 效果图
+
+![](https://raw.githubusercontent.com/javakam/iText7Sample/main/screenshot/word.png)
+
+### 教程
 https://github.com/itext/itext7
 
 [🍎官方教程](https://kb.itextpdf.com/home/it7kb/ebooks/itext-7-jump-start-tutorial-for-java/chapter-1-introducing-basic-building-blocks)
